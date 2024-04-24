@@ -1,8 +1,7 @@
 
 
-[image](![Uploading image.png…](![Uploading image.png…]()
-)
-)
+
+![Alt text]([relative%20path/to/img.jpg?raw=true "Title"](https://github.com/vanshchauhan21/github-profile-readme-generator/blob/main/Screenshot%20(14).png?raw=true))
 
 
 
