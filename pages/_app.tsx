@@ -1,0 +1,22 @@
+import '@/styles/globals.css'
+import SEO from '@bradgarropy/next-seo'
+import type { AppProps } from 'next/app'
+
+export default function App({ Component, pageProps }: AppProps) {
+  return <>
+   <SEO title="Github Profile Readme Generator" description="Prettify your github profile using this amazing readme generator."
+    keywords={['generator','github','readme-generator','github readme generator','github-profile','github-readme']} icon="/github.ico" twitter={{
+      image: "/homepage.png",
+      site: "@vanshchauhan",
+      card: "summary",
+  }}
+  facebook={{
+    image:"./homepage.png",
+    type:"website",
+    url:"https://github.com/vanshchauhan21/github-profile-readme-generator"
+  }}
+
+  />
+  <Component {...pageProps} />
+  </>
+}
