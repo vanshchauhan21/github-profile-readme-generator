@@ -34,13 +34,7 @@
 
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
-<p align="center">
-    <a href="https://vanshchauhan21.github.io/github-profile-readme-generator/" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/vanshchauhan21/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/vanshchauhan21/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
+
 
 <p align="center">
 <i>😍 Loved the tool? Please don't forget to fork and star the repos </i>
