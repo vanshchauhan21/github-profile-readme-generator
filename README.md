@@ -1,6 +1,6 @@
 
 
- ![Untitled-64]https://github.com/vanshchauhan21/github-profile-readme-generator/blob/main/Screenshot%20(14).png?raw=true)
+[image](https://github.com/vanshchauhan21/github-profile-readme-generator/blob/main/Screenshot%20(14).png?raw=true)
 
 
 
